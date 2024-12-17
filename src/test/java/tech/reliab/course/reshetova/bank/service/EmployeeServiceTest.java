@@ -10,6 +10,7 @@ import tech.reliab.course.reshetova.bank.model.EmployeeModel;
 import tech.reliab.course.reshetova.bank.repository.*;
 import org.springframework.boot.test.context.SpringBootTest;
 
+import static org.assertj.core.api.Assertions.*;
 
 import java.util.*;
 
